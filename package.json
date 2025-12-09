@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ben-manning/cms-backend/issues"
   },
-  "homepage": "https://github.com/ben-manning/cms-backend#readme"
+  "homepage": "https://github.com/ben-manning/cms-backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
